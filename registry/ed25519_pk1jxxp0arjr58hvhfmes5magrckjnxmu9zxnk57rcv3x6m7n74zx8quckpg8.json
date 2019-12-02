@@ -1,0 +1,7 @@
+{
+    "homepage": "https://iohk.io",
+    "ticker": "IOHKA",
+    "owner": "ed25519_pk1jxxp0arjr58hvhfmes5magrckjnxmu9zxnk57rcv3x6m7n74zx8quckpg8",
+    "pledge_address": "addr1skcl3tp7lcj36rq0l8f8277j8tf63dkegyrwmhuru7q0dsyef73swsgyf4m",
+    "description": "This is the descrption of the stake-pool"
+}
